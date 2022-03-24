@@ -1,0 +1,6 @@
+10227115706215892
+
+Id Token for Superhero API
+https://www.superheroapi.com/
+
+https://superheroapi.com/api/access-token
